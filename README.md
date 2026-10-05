@@ -1,25 +1,12 @@
-<!--
-  ERICK RENNAM
-  README adaptativo para GitHub Light / Dark
--->
-
 <div align="center">
 
-<!-- ==================== BANNER DARK ==================== -->
+<!-- BANNER — DARK -->
 
-<a href="https://github.com/Rennam2026">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=000000&text=ERICK%20RENNAM&fontColor=10B981&fontSize=50&fontAlignY=38&desc=SOFTWARE%20%E2%80%A2%20HARDWARE%20%E2%80%A2%20TECNOLOGIA&descAlignY=58&descSize=16&descColor=10B981&animation=fadeIn#gh-dark-mode-only" width="100%"/>
-</a>
-
-<!-- ==================== BANNER LIGHT ==================== -->
-
-<a href="https://github.com/Rennam2026">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=FFFFFF&text=ERICK%20RENNAM&fontColor=087F5B&fontSize=50&fontAlignY=38&desc=SOFTWARE%20%E2%80%A2%20HARDWARE%20%E2%80%A2%20TECNOLOGIA&descAlignY=58&descSize=16&descColor=087F5B&animation=fadeIn#gh-light-mode-only" width="100%"/>
-</a>
+<div>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=000000&text=ERICK%20RENNAM&fontColor=10B981&fontSize=50&fontAlignY=38&desc=SOFTWARE%20%E2%80%A2%20HARDWARE%20%E2%80%A2%20TECNOLOGIA&descAlignY=58&descSize=16&descColor=10B981&animation=fadeIn" width="100%" />
+</div>
 
 <br>
-
-<!-- ==================== TYPING ==================== -->
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=900&color=10B981&center=true&vCenter=true&width=700&lines=Desenvolvimento+de+Sistemas;Desenvolvimento+Web;Software+%26+Hardware;Manuten%C3%A7%C3%A3o+de+Equipamentos;Reparo+Mobile+%26+Microssoldagem" alt="Erick Rennam"/>
 
@@ -45,7 +32,7 @@
 
 Olá! Eu sou **Erick Rennam**, estudante de **Desenvolvimento de Sistemas** e atuante na área de tecnologia.
 
-Minha trajetória combina duas áreas que normalmente aparecem separadas:
+Minha trajetória combina duas áreas:
 
 **desenvolvimento de software + hardware.**
 
@@ -53,9 +40,7 @@ No desenvolvimento, estudo e trabalho com aplicações Web, APIs, bancos de dado
 
 No hardware, atuo com manutenção de computadores e eletrônicos, reparo de dispositivos móveis e **microssoldagem**.
 
-Meu objetivo é unir essas áreas para compreender problemas de forma mais completa e transformar conhecimento técnico em **soluções reais**.
-
-<br>
+Busco unir essas áreas para compreender problemas de forma mais completa e transformar conhecimento técnico em **soluções reais**.
 
 <div align="center">
 
@@ -71,15 +56,13 @@ Meu objetivo é unir essas áreas para compreender problemas de forma mais compl
 
 ### Software
 
-<img src="https://skillicons.dev/icons?i=ts,js,html,css,php&theme=light#gh-light-mode-only" />
-<img src="https://skillicons.dev/icons?i=ts,js,html,css,php&theme=dark#gh-dark-mode-only" />
+<img src="https://skillicons.dev/icons?i=ts,js,html,css,php" />
 
 <br><br>
 
 ### Banco de dados & Ferramentas
 
-<img src="https://skillicons.dev/icons?i=mysql,firebase,vscode,git,github,figma&theme=light#gh-light-mode-only" />
-<img src="https://skillicons.dev/icons?i=mysql,firebase,vscode,git,github,figma&theme=dark#gh-dark-mode-only" />
+<img src="https://skillicons.dev/icons?i=mysql,firebase,vscode,git,github,figma" />
 
 <br><br>
 
@@ -238,25 +221,49 @@ CIEE
 
 <div align="center">
 
-### Desenvolvendo conhecimento em duas frentes
+### Construindo conhecimento em duas frentes
 
 <br>
 
-**SOFTWARE**
+<table>
+<tr>
 
-`Código` • `Sistemas` • `Web` • `APIs`
+<td align="center" width="45%">
 
-     **×**     
+### 💻 SOFTWARE
 
-**HARDWARE**
+`Código`
+`Sistemas`
+`Web`
+`APIs`
 
-`Eletrônica` • `Manutenção` • `Mobile` • `Microssoldagem`
+</td>
 
-<br><br>
+<td align="center" width="10%">
 
-> **Tecnologia não é apenas código.**
->
-> É entender o problema e saber como resolvê-lo.
+### +
+
+</td>
+
+<td align="center" width="45%">
+
+### 🔧 HARDWARE
+
+`Eletrônica`
+`Manutenção`
+`Mobile`
+`Microssoldagem`
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+**Tecnologia não é apenas código.**
+
+É entender o problema e saber como resolvê-lo.
 
 </div>
 
@@ -290,11 +297,8 @@ CIEE
 
 <br>
 
-<!-- ==================== FOOTER DARK ==================== -->
+<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=000000&section=footer#gh-dark-mode-only" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=000000&section=footer" width="100%"/>
 
-<!-- ==================== FOOTER LIGHT ==================== -->
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=FFFFFF&section=footer#gh-light-mode-only" width="100%"/>
-
+</div>
