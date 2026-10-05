@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=000000&text=ERICK%20RENNAM&fontColor=10B981&fontSize=50&fontAlignY=38&desc=SOFTWARE%20%E2%80%A2%20HARDWARE%20%E2%80%A2%20TECNOLOGIA&descAlignY=58&descSize=16&descColor=8B949E&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=000000&text=ERICK%20RENNAM&fontColor=10B981&fontSize=50&fontAlignY=38&desc=SOFTWARE%20%E2%80%A2%20HARDWARE%20%E2%80%A2%20TECNOLOGIA&descAlignY=58&descSize=16&descColor=10B981&animation=fadeIn" width="100%"/>
 
 <br>
 
@@ -20,27 +20,23 @@
 <img src="https://img.shields.io/badge/Instagram-@rennam.tech-000000?style=for-the-badge&logo=instagram&logoColor=10B981"/>
 </a>
 
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=Rennam2026&color=10B981&style=flat-square&label=VISITAS+AO+PERFIL"/>
-
 </div>
 
 ---
 
 ## `> Sobre mim`
 
-Sou **Erick Rennam**, estudante de **Desenvolvimento de Sistemas** e profissional em formação na área de tecnologia.
+Sou **Erick Rennam**, estudante de **Desenvolvimento de Sistemas** e atuante na área de tecnologia.
 
-Minha trajetória combina duas áreas que normalmente aparecem separadas:
+Minha trajetória combina duas áreas:
 
 **desenvolvimento de software + manutenção de hardware.**
 
-No software, estudo e desenvolvo aplicações Web, APIs, bancos de dados, Git e modelagem de sistemas.
+No software, trabalho com desenvolvimento Web, APIs, bancos de dados, Git e modelagem de sistemas.
 
-No hardware, trabalho com manutenção de computadores e eletrônicos, reparo de dispositivos móveis e **microssoldagem**.
+No hardware, atuo com manutenção de computadores e eletrônicos, reparo de dispositivos móveis e **microssoldagem**.
 
-Acredito que entender tanto o **código quanto o equipamento onde ele executa** proporciona uma visão mais completa para resolver problemas reais.
+Busco unir conhecimento de software e hardware para entender problemas de forma mais completa e transformar conhecimento técnico em soluções reais.
 
 <br>
 
@@ -182,8 +178,6 @@ Projeto prático desenvolvido em equipe, aplicando conceitos de desenvolvimento 
 
 ## `> Formação`
 
-<div align="center">
-
 | Formação                                               | Instituição                |
 | :----------------------------------------------------- | :------------------------- |
 | **Técnico em Desenvolvimento de Sistemas**             | Cedup Hermann Hering       |
@@ -191,24 +185,6 @@ Projeto prático desenvolvido em equipe, aplicando conceitos de desenvolvimento 
 | **Desmontagem e Montagem de Computadores e Celulares** | CEBRAC • Blumenau          |
 | **Manutenção & Microssoldagem**                        | Nice Cell Academy • CEBRAC |
 | **Capacitação Profissional**                           | CIEE                       |
-
-</div>
-
----
-
-## `> GitHub`
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Rennam2026&show_icons=true&hide_border=true&bg_color=000000&title_color=10B981&icon_color=10B981&text_color=8B949E&rank_icon=github&include_all_commits=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rennam2026&layout=compact&hide_border=true&bg_color=000000&title_color=10B981&text_color=8B949E&langs_count=8"/>
-
-<br><br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rennam2026&theme=dark&hide_border=true&background=000000&ring=10B981&fire=10B981&currStreakLabel=10B981&sideLabels=8B949E&dates=8B949E" />
-
-</div>
 
 ---
 
@@ -218,17 +194,17 @@ Projeto prático desenvolvido em equipe, aplicando conceitos de desenvolvimento 
 
 ```text
 DESENVOLVIMENTO DE SISTEMAS
-        +
-     HARDWARE
-        +
-    ELETRÔNICA
-        =
+          +
+       HARDWARE
+          +
+      ELETRÔNICA
+          =
    TECNOLOGIA NA PRÁTICA
 ```
 
 </div>
 
-Estou continuamente desenvolvendo minhas habilidades em **software, hardware e eletrônica**, buscando transformar conhecimento técnico em soluções úteis e projetos reais.
+Estou continuamente desenvolvendo minhas habilidades em **software, hardware e eletrônica**, buscando transformar conhecimento técnico em projetos e soluções reais.
 
 ---
 
