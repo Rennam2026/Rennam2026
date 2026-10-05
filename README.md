@@ -1,8 +1,25 @@
+<!--
+  ERICK RENNAM
+  README adaptativo para GitHub Light / Dark
+-->
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=000000&text=ERICK%20RENNAM&fontColor=10B981&fontSize=50&fontAlignY=38&desc=SOFTWARE%20%E2%80%A2%20HARDWARE%20%E2%80%A2%20TECNOLOGIA&descAlignY=58&descSize=16&descColor=10B981&animation=fadeIn" width="100%"/>
+<!-- ==================== BANNER DARK ==================== -->
+
+<a href="https://github.com/Rennam2026">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=000000&text=ERICK%20RENNAM&fontColor=10B981&fontSize=50&fontAlignY=38&desc=SOFTWARE%20%E2%80%A2%20HARDWARE%20%E2%80%A2%20TECNOLOGIA&descAlignY=58&descSize=16&descColor=10B981&animation=fadeIn#gh-dark-mode-only" width="100%"/>
+</a>
+
+<!-- ==================== BANNER LIGHT ==================== -->
+
+<a href="https://github.com/Rennam2026">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=FFFFFF&text=ERICK%20RENNAM&fontColor=087F5B&fontSize=50&fontAlignY=38&desc=SOFTWARE%20%E2%80%A2%20HARDWARE%20%E2%80%A2%20TECNOLOGIA&descAlignY=58&descSize=16&descColor=087F5B&animation=fadeIn#gh-light-mode-only" width="100%"/>
+</a>
 
 <br>
+
+<!-- ==================== TYPING ==================== -->
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=900&color=10B981&center=true&vCenter=true&width=700&lines=Desenvolvimento+de+Sistemas;Desenvolvimento+Web;Software+%26+Hardware;Manuten%C3%A7%C3%A3o+de+Equipamentos;Reparo+Mobile+%26+Microssoldagem" alt="Erick Rennam"/>
 
@@ -26,23 +43,23 @@
 
 ## `> Sobre mim`
 
-Sou **Erick Rennam**, estudante de **Desenvolvimento de Sistemas** e atuante na área de tecnologia.
+Olá! Eu sou **Erick Rennam**, estudante de **Desenvolvimento de Sistemas** e atuante na área de tecnologia.
 
-Minha trajetória combina duas áreas:
+Minha trajetória combina duas áreas que normalmente aparecem separadas:
 
-**desenvolvimento de software + manutenção de hardware.**
+**desenvolvimento de software + hardware.**
 
-No software, trabalho com desenvolvimento Web, APIs, bancos de dados, Git e modelagem de sistemas.
+No desenvolvimento, estudo e trabalho com aplicações Web, APIs, bancos de dados, Git e modelagem de sistemas.
 
 No hardware, atuo com manutenção de computadores e eletrônicos, reparo de dispositivos móveis e **microssoldagem**.
 
-Busco unir conhecimento de software e hardware para entender problemas de forma mais completa e transformar conhecimento técnico em soluções reais.
+Meu objetivo é unir essas áreas para compreender problemas de forma mais completa e transformar conhecimento técnico em **soluções reais**.
 
 <br>
 
 <div align="center">
 
-`Blumenau • Santa Catarina • Brasil`
+**Blumenau — SC, Brasil**
 
 </div>
 
@@ -52,15 +69,17 @@ Busco unir conhecimento de software e hardware para entender problemas de forma 
 
 <div align="center">
 
-### Desenvolvimento
+### Software
 
-<img src="https://skillicons.dev/icons?i=ts,js,html,css,php&theme=dark" />
+<img src="https://skillicons.dev/icons?i=ts,js,html,css,php&theme=light#gh-light-mode-only" />
+<img src="https://skillicons.dev/icons?i=ts,js,html,css,php&theme=dark#gh-dark-mode-only" />
 
 <br><br>
 
 ### Banco de dados & Ferramentas
 
-<img src="https://skillicons.dev/icons?i=mysql,firebase,vscode,git,github,figma&theme=dark" />
+<img src="https://skillicons.dev/icons?i=mysql,firebase,vscode,git,github,figma&theme=light#gh-light-mode-only" />
+<img src="https://skillicons.dev/icons?i=mysql,firebase,vscode,git,github,figma&theme=dark#gh-dark-mode-only" />
 
 <br><br>
 
@@ -89,13 +108,14 @@ Busco unir conhecimento de software e hardware para entender problemas de forma 
 
 ### 💻 Software
 
+**Desenvolvimento**
+
 * Desenvolvimento Web
 * APIs e integrações
 * Banco de dados
 * Modelagem de sistemas
 * Git & GitHub
-* Projetos acadêmicos e pessoais
-* Sistemas para problemas reais
+* Projetos pessoais e acadêmicos
 
 </td>
 
@@ -103,13 +123,14 @@ Busco unir conhecimento de software e hardware para entender problemas de forma 
 
 ### 🔧 Hardware
 
-* Manutenção de computadores
-* Reparo de notebooks
-* Reparo de smartphones
-* Diagnóstico de problemas
-* Manutenção de eletrônicos
+**Manutenção**
+
+* Computadores e notebooks
+* Smartphones
+* Eletrônicos
+* Diagnóstico técnico
+* Reparo de placas
 * Microssoldagem
-* Análise de placas
 
 </td>
 
@@ -129,7 +150,7 @@ Busco unir conhecimento de software e hardware para entender problemas de forma 
 
 **TypeScript**
 
-Projetos e experimentos utilizados para praticar desenvolvimento, Git e organização de código.
+Projetos e experimentos para praticar desenvolvimento, Git e organização de código.
 
 <br>
 
@@ -161,7 +182,7 @@ Projeto voltado ao desenvolvimento Web, documentação e organização de aplica
 
 **TypeScript**
 
-Projeto prático desenvolvido em equipe, aplicando conceitos de desenvolvimento e versionamento.
+Projeto desenvolvido em equipe aplicando conceitos de desenvolvimento e versionamento.
 
 <br>
 
@@ -178,13 +199,38 @@ Projeto prático desenvolvido em equipe, aplicando conceitos de desenvolvimento 
 
 ## `> Formação`
 
-| Formação                                               | Instituição                |
-| :----------------------------------------------------- | :------------------------- |
-| **Técnico em Desenvolvimento de Sistemas**             | Cedup Hermann Hering       |
-| **Vendas de Software**                                 | Senac • Entra21            |
-| **Desmontagem e Montagem de Computadores e Celulares** | CEBRAC • Blumenau          |
-| **Manutenção & Microssoldagem**                        | Nice Cell Academy • CEBRAC |
-| **Capacitação Profissional**                           | CIEE                       |
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+### 🎓 Desenvolvimento
+
+**Técnico em Desenvolvimento de Sistemas**
+Cedup Hermann Hering
+
+**Vendas de Software**
+Senac • Entra21
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🔧 Hardware
+
+**Desmontagem e Montagem de Computadores e Celulares**
+CEBRAC • Blumenau
+
+**Manutenção & Microssoldagem**
+Nice Cell Academy • CEBRAC
+
+**Capacitação Profissional**
+CIEE
+
+</td>
+
+</tr>
+</table>
 
 ---
 
@@ -192,19 +238,27 @@ Projeto prático desenvolvido em equipe, aplicando conceitos de desenvolvimento 
 
 <div align="center">
 
-```text
-   DESENVOLVIMENTO DE SISTEMAS
-          +
-         HARDWARE
-          +
-        ELETRÔNICA
-          =
-     TECNOLOGIA NA PRÁTICA
-```
+### Desenvolvendo conhecimento em duas frentes
+
+<br>
+
+**SOFTWARE**
+
+`Código` • `Sistemas` • `Web` • `APIs`
+
+     **×**     
+
+**HARDWARE**
+
+`Eletrônica` • `Manutenção` • `Mobile` • `Microssoldagem`
+
+<br><br>
+
+> **Tecnologia não é apenas código.**
+>
+> É entender o problema e saber como resolvê-lo.
 
 </div>
-
-Estou continuamente desenvolvendo minhas habilidades em **software, hardware e eletrônica**, buscando transformar conhecimento técnico em projetos e soluções reais.
 
 ---
 
@@ -232,8 +286,15 @@ Estou continuamente desenvolvendo minhas habilidades em **software, hardware e e
 
 `Desenvolvimento de Sistemas • Hardware • Eletrônica`
 
+</div>
+
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=000000&section=footer" width="100%"/>
+<!-- ==================== FOOTER DARK ==================== -->
 
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=000000&section=footer#gh-dark-mode-only" width="100%"/>
+
+<!-- ==================== FOOTER LIGHT ==================== -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=FFFFFF&section=footer#gh-light-mode-only" width="100%"/>
+
