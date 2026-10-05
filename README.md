@@ -131,26 +131,6 @@ CIEE
 
 ---
 
-## GitHub
-
-<div align="center">
-
-<a href="https://github.com/Rennam2026">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Rennam2026&show_icons=true&hide_border=true&bg_color=0D1117&title_color=10B981&icon_color=10B981&text_color=C9D1D9&include_all_commits=true&count_private=true"/>
-</a>
-
-<a href="https://github.com/Rennam2026">
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rennam2026&layout=compact&langs_count=6&hide_border=true&bg_color=0D1117&title_color=10B981&text_color=C9D1D9"/>
-</a>
-
-<br><br>
-
-<a href="https://github.com/Rennam2026">
-<img src="https://streak-stats.demolab.com?user=Rennam2026&hide_border=true&background=0D1117&ring=10B981&fire=10B981&currStreakLabel=10B981&sideLabels=C9D1D9&dates=8B949E"/>
-</a>
-
-</div>
-
 ## Contato
 
 <div align="center">
