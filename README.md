@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=210&color=000000&text=ERICK%20RENNAM&fontColor=10B981&fontSize=48&fontAlignY=38&desc=Desenvolvimento%20de%20Sistemas%20%7C%20Tecnologia%20%7C%20Hardware&descAlignY=58&descSize=16&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0D1117&text=ERICK%20RENNAM&fontColor=10B981&fontSize=48&fontAlignY=38&desc=Desenvolvimento%20de%20Sistemas%20%7C%20Tecnologia%20%7C%20Hardware&descAlignY=58&descSize=16&animation=fadeIn" width="100%"/>
 
 <br>
 
