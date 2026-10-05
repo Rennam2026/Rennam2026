@@ -87,33 +87,26 @@ Busco unir essas áreas para compreender problemas de forma mais completa e tran
 <table>
 <tr>
 
-<td width="50%" valign="top">
+\---
 
-### 💻 Software
+\## Formação
 
-**Desenvolvimento**
+\*\*Técnico em Desenvolvimento de Sistemas\*\*  
+Cedup Hermann Hering
 
-* Desenvolvimento Web
-* APIs e integrações
-* Banco de dados
-* Modelagem de sistemas
-* Git & GitHub
-* Projetos pessoais e acadêmicos
+\*\*Desmontagem e Montagem de Computadores e Celulares\*\*  
+Cebrac - Blumenau 
 
-</td>
+\*\*Vendas de Software\*\*  
+Senac - Entra21
 
-<td width="50%" valign="top">
+\*\*Manutenção & Microssoldagem\*\*  
+Nice Cell Academy / Cebrac
 
-### 🔧 Hardware
+\*\*Capacitação Profissional\*\*  
+CIEE
 
-**Manutenção**
-
-* Computadores e notebooks
-* Smartphones
-* Eletrônicos
-* Diagnóstico técnico
-* Reparo de placas
-* Microssoldagem
+\---
 
 </td>
 
