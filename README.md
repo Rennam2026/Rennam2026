@@ -193,13 +193,13 @@ Projeto prático desenvolvido em equipe, aplicando conceitos de desenvolvimento 
 <div align="center">
 
 ```text
-DESENVOLVIMENTO DE SISTEMAS
+   DESENVOLVIMENTO DE SISTEMAS
           +
-       HARDWARE
+         HARDWARE
           +
-      ELETRÔNICA
+        ELETRÔNICA
           =
-   TECNOLOGIA NA PRÁTICA
+     TECNOLOGIA NA PRÁTICA
 ```
 
 </div>
