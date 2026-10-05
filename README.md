@@ -1,10 +1,6 @@
 <div align="center">
 
-<!-- BANNER — DARK -->
-
-<div>
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=000000&text=ERICK%20RENNAM&fontColor=10B981&fontSize=50&fontAlignY=38&desc=SOFTWARE%20%E2%80%A2%20HARDWARE%20%E2%80%A2%20TECNOLOGIA&descAlignY=58&descSize=16&descColor=10B981&animation=fadeIn" width="100%" />
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=000000&text=ERICK%20RENNAM&fontColor=10B981&fontSize=50&fontAlignY=38&desc=SOFTWARE%20%E2%80%A2%20HARDWARE%20%E2%80%A2%20TECNOLOGIA&descAlignY=58&descSize=16&descColor=10B981&animation=fadeIn" width="100%"/>
 
 <br>
 
@@ -87,26 +83,33 @@ Busco unir essas áreas para compreender problemas de forma mais completa e tran
 <table>
 <tr>
 
-\---
+<td width="50%" valign="top">
 
-\## Formação
+### 💻 Software
 
-\*\*Técnico em Desenvolvimento de Sistemas\*\*  
-Cedup Hermann Hering
+**Desenvolvimento**
 
-\*\*Desmontagem e Montagem de Computadores e Celulares\*\*  
-Cebrac - Blumenau 
+* Desenvolvimento Web
+* APIs e integrações
+* Banco de dados
+* Modelagem de sistemas
+* Git & GitHub
+* Projetos pessoais e acadêmicos
 
-\*\*Vendas de Software\*\*  
-Senac - Entra21
+</td>
 
-\*\*Manutenção & Microssoldagem\*\*  
-Nice Cell Academy / Cebrac
+<td width="50%" valign="top">
 
-\*\*Capacitação Profissional\*\*  
-CIEE
+### 🔧 Hardware
 
-\---
+**Manutenção**
+
+* Computadores e notebooks
+* Smartphones
+* Eletrônicos
+* Diagnóstico técnico
+* Reparo de placas
+* Microssoldagem
 
 </td>
 
@@ -218,41 +221,17 @@ CIEE
 
 <br>
 
-<table>
-<tr>
+**💻 SOFTWARE**
 
-<td align="center" width="45%">
+`Código` • `Sistemas` • `Web` • `APIs`
 
-### 💻 SOFTWARE
+     **＋**     
 
-`Código`
-`Sistemas`
-`Web`
-`APIs`
+**🔧 HARDWARE**
 
-</td>
+`Eletrônica` • `Manutenção` • `Mobile` • `Microssoldagem`
 
-<td align="center" width="10%">
-
-### +
-
-</td>
-
-<td align="center" width="45%">
-
-### 🔧 HARDWARE
-
-`Eletrônica`
-`Manutenção`
-`Mobile`
-`Microssoldagem`
-
-</td>
-
-</tr>
-</table>
-
-<br>
+<br><br>
 
 **Tecnologia não é apenas código.**
 
