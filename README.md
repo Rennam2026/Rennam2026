@@ -1,161 +1,284 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=200&section=header&text=Erick%20Rennam&fontSize=38&fontColor=10B981&animation=fadeIn" width="100%" />
 
-  <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=10B981&center=true&vCenter=true&width=550&lines=Desenvolvimento+de+Sistemas;T%C3%A9cnico+em+Manuten%C3%A7%C3%A3o+de+Eletr%C3%B4nicos;Hardware%2C+Software+%26+Manuten%C3%A7%C3%A3o" alt="Typing Animation" />
-  </a>
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0D1117&text=ERICK%20RENNAM&fontColor=10B981&fontSize=48&fontAlignY=38&desc=Desenvolvimento%20de%20Sistemas%20%7C%20Software%20%7C%20Hardware&descAlignY=58&descSize=17&animation=fadeIn" width="100%"/>
 
-<br />
+<br>
 
-## 👨‍💻 Sobre Mim
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2800&pause=900&color=10B981&center=true&vCenter=true&width=700&lines=Desenvolvimento+de+Sistemas;Desenvolvimento+Web;Software+%26+Hardware;Manuten%C3%A7%C3%A3o+de+Equipamentos;Reparo+Mobile+%26+Microssoldagem" alt="Typing animation"/>
 
-Olá! Me chamo **Erick Rennam Nascimento da Cruz Costa**. Sou estudante de **Desenvolvimento de Sistemas** no Cedup Hermann Hering e atuo como **Técnico em Manutenção de Equipamentos de Informática**[span_0](start_span)[span_0](end_span)[span_1](start_span)[span_1](end_span).
+<br><br>
 
-Tenho uma base sólida que une **Hardware & Software**: atuo no reparo e diagnóstico avançado de eletrônicos (computadores, celulares Android/iOS, microssoldagem) e na criação de aplicações web utilizando linguagens de programação, bancos de dados e modelagem de sistemas[span_2](start_span)[span_2](end_span)[span_3](start_span)[span_3](end_span).
+<a href="https://github.com/Rennam2026">
+<img src="https://img.shields.io/badge/GitHub-Rennam2026-10B981?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-- 🎓 **Formação:** Técnico em Desenvolvimento de Sistemas (Cedup Hermann Hering)[span_4](start_span)[span_4](end_span)[span_5](start_span)[span_5](end_span).
-- 🛠️ **Cursos Complementares:** Vendas de Software (Senac Entra21), Manutenção & Microssoldagem (Nice Cell Academy / Cebrac), Capacitação Profissional (CIEE)[span_6](start_span)[span_6](end_span).
-- 📍 **Localização:** Blumenau - SC, Brasil[span_7](start_span)[span_7](end_span).
+<a href="https://www.linkedin.com/in/erick-costa-2a9a72427">
+<img src="https://img.shields.io/badge/LinkedIn-Erick%20Rennam-10B981?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
----
+<a href="https://www.instagram.com/rennam.tech">
+<img src="https://img.shields.io/badge/Instagram-@rennam.tech-10B981?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
 
-## 🛠️ Tecnologias e Ferramentas
-
-### 💻 Desenvolvimento & Banco de Dados
-<div align="left">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-</div>
-
-<br />
-
-### ⚙️ Ferramentas, Modelagem & Ambiente
-<div align="left">
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/StarUML-000000?style=for-the-badge&logo=uml&logoColor=white" />
-</div>
-
-<br />
-
-### 🔧 Hardware, Eletrônica & Suporte
-<div align="left">
-  <img src="https://img.shields.io/badge/Manutenção_PC-10B981?style=for-the-badge&logo=microchip&logoColor=white" />
-  <img src="https://img.shields.io/badge/Reparo_Mobile_(iOS/Android)-10B981?style=for-the-badge&logo=android&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microssoldagem-10B981?style=for-the-badge&logo=circuitverse&logoColor=white" />
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+## `> sobre_mim`
 
-<div align="center">
-  <img src="https://github-profile-trophies.vercel.app/?username=Rennam2026&theme=darkhub&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-</div>
+Meu nome é **Erick Rennam**.
 
----
+Atuo na área de **Desenvolvimento de Sistemas** e também com **manutenção de equipamentos de informática e eletrônicos**.
 
-## 📊 Estatísticas do GitHub
+Minha formação combina desenvolvimento de software com experiência prática em hardware, permitindo trabalhar em diferentes partes do ecossistema tecnológico.
 
-<div align="center">
-  <a href="https://github.com/Rennam2026">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rennam2026&show_icons=true&theme=dark&bg_color=0D1117&title_color=10B981&icon_color=10B981&text_color=C9D1D9&border_color=30363D" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rennam2026&layout=compact&theme=dark&bg_color=0D1117&title_color=10B981&text_color=C9D1D9&border_color=30363D" />
-  </a>
-</div>
+Minha base técnica envolve:
 
-<br />
+- Desenvolvimento Web
+- TypeScript e JavaScript
+- APIs REST
+- Banco de dados
+- Git e GitHub
+- Modelagem de sistemas
+- Manutenção de computadores
+- Reparo de dispositivos mobile
+- Microssoldagem
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rennam2026&theme=dark&background=0D1117&border=30363D&stroke=10B981&ring=10B981&fire=10B981&currStreakLabel=10B981" alt="GitHub Streak" />
-</div>
+Sou formado como **Técnico em Desenvolvimento de Sistemas pelo Cedup Hermann Hering** e possuo cursos complementares em **Vendas de Software, Manutenção & Microssoldagem e Capacitação Profissional**.
 
----
+```text
+SOFTWARE
+├── Desenvolvimento Web
+├── APIs REST
+├── Banco de Dados
+└── Modelagem
 
-## 📈 Gráfico de Atividades
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rennam2026&theme=github-compact&bg_color=0D1117&color=10B981&line=10B981&point=ffffff&area=true&hide_border=true" width="100%" />
-</div>
-
----
-
-## 🐍 Snake Contribution Game
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rennam2026/Rennam2026/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rennam2026/Rennam2026/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Rennam2026/Rennam2026/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
+HARDWARE
+├── Manutenção de Computadores
+├── Reparo Mobile
+└── Microssoldagem
+````
 
 ---
 
-## 📂 Repositórios em Destaque
+## `> tecnologias`
+
+### Desenvolvimento
+
+<p>
+<img src="https://skillicons.dev/icons?i=ts,js,html,css,php"/>
+</p>
+
+### Banco de dados & APIs
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql"/>
+<img src="https://img.shields.io/badge/REST_API-0D1117?style=for-the-badge&logo=fastapi&logoColor=10B981"/>
+</p>
+
+### Ferramentas
+
+<p>
+<img src="https://skillicons.dev/icons?i=vscode,git,github,figma"/>
+<img src="https://img.shields.io/badge/XAMPP-0D1117?style=for-the-badge&logo=xampp&logoColor=10B981"/>
+<img src="https://img.shields.io/badge/StarUML-0D1117?style=for-the-badge&logoColor=10B981"/>
+</p>
+
+### Hardware & suporte
+
+<p>
+<img src="https://img.shields.io/badge/PC_Maintenance-0D1117?style=for-the-badge&logo=windows&logoColor=10B981"/>
+<img src="https://img.shields.io/badge/Mobile_Repair-0D1117?style=for-the-badge&logo=android&logoColor=10B981"/>
+<img src="https://img.shields.io/badge/iOS_Repair-0D1117?style=for-the-badge&logo=apple&logoColor=10B981"/>
+<img src="https://img.shields.io/badge/Microssoldagem-0D1117?style=for-the-badge&logoColor=10B981"/>
+</p>
+
+---
+
+## `> projetos`
 
 <table>
-  <tr>
-    <td width="33%">
-      <h3 align="center">🧪 laboratório_github</h3>
-      <p align="center">Repositório de práticas e testes com Git e TypeScript.</p>
-      <p align="center">
-        <a href="https://github.com/Rennam2026/laborat%C3%B3rio_github">
-          <img src="https://img.shields.io/badge/Ver_Repositório-10B981?style=for-the-badge&logo=github" />
-        </a>
-      </p>
-    </td>
-    <td width="33%">
-      <h3 align="center">📘 manual do site</h3>
-      <p align="center">Projeto de documentação e desenvolvimento web.</p>
-      <p align="center">
-        <a href="https://github.com/Rennam2026/manual-do-site">
-          <img src="https://img.shields.io/badge/Ver_Repositório-10B981?style=for-the-badge&logo=github" />
-        </a>
-      </p>
-    </td>
-    <td width="33%">
-      <h3 align="center">💻 labgit_erickvictor301</h3>
-      <p align="center">Projeto prático desenvolvido em equipe/dupla.</p>
-      <p align="center">
-        <a href="https://github.com/Rennam2026/labgit_erickvictor301">
-          <img src="https://img.shields.io/badge/Ver_Repositório-10B981?style=for-the-badge&logo=github" />
-        </a>
-      </p>
-    </td>
-  </tr>
+<tr>
+
+<td width="33%" valign="top">
+
+<h3 align="center">laboratório_github</h3>
+
+<p align="center">
+<img src="https://img.shields.io/badge/TypeScript-10B981?style=flat-square&logo=typescript&logoColor=0D1117"/>
+</p>
+
+<p align="center">
+Práticas com Git e desenvolvimento utilizando TypeScript.
+</p>
+
+<p align="center">
+<a href="https://github.com/Rennam2026">
+<img src="https://img.shields.io/badge/VER_PROJETO-0D1117?style=for-the-badge&logo=github&logoColor=10B981"/>
+</a>
+</p>
+
+</td>
+
+<td width="33%" valign="top">
+
+<h3 align="center">manual do site</h3>
+
+<p align="center">
+<img src="https://img.shields.io/badge/TypeScript-10B981?style=flat-square&logo=typescript&logoColor=0D1117"/>
+</p>
+
+<p align="center">
+Documentação e desenvolvimento Web.
+</p>
+
+<p align="center">
+<a href="https://github.com/Rennam2026">
+<img src="https://img.shields.io/badge/VER_PROJETO-0D1117?style=for-the-badge&logo=github&logoColor=10B981"/>
+</a>
+</p>
+
+</td>
+
+<td width="33%" valign="top">
+
+<h3 align="center">labgit_erickvictor301</h3>
+
+<p align="center">
+<img src="https://img.shields.io/badge/TypeScript-10B981?style=flat-square&logo=typescript&logoColor=0D1117"/>
+</p>
+
+<p align="center">
+Projeto prático desenvolvido em equipe.
+</p>
+
+<p align="center">
+<a href="https://github.com/Rennam2026">
+<img src="https://img.shields.io/badge/VER_PROJETO-0D1117?style=for-the-badge&logo=github&logoColor=10B981"/>
+</a>
+</p>
+
+</td>
+
+</tr>
 </table>
 
 ---
 
-## 📬 Conecte-se Comigo
+## `> formação`
+
+| Formação / Curso                           | Instituição                |
+| ------------------------------------------ | -------------------------- |
+| **Técnico em Desenvolvimento de Sistemas** | Cedup Hermann Hering       |
+| **Vendas de Software**                     | Senac Entra21              |
+| **Manutenção & Microssoldagem**            | Nice Cell Academy / Cebrac |
+| **Capacitação Profissional**               | CIEE                       |
+
+---
+
+## `> github_stats`
 
 <div align="center">
-  <a href="mailto:erick.rennam.nasc@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/erick-costa-2a9a72427" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/rennam.tech" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://wa.me/5547984575517" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>
+
+<a href="https://github.com/Rennam2026">
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Rennam2026&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=10B981&icon_color=10B981&text_color=C9D1D9"/>
+</a>
+
+<a href="https://github.com/Rennam2026">
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rennam2026&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=10B981&text_color=C9D1D9"/>
+</a>
+
 </div>
 
-<br />
+---
+
+## `> streak`
 
 <div align="center">
-  <sub>Desenvolvido com 💚 por Erick Rennam</sub>
+
+<a href="https://github.com/Rennam2026">
+<img src="https://streak-stats.demolab.com?user=Rennam2026&theme=dark&hide_border=true&background=0D1117&ring=10B981&fire=10B981&currStreakLabel=10B981&sideLabels=C9D1D9&dates=8B949E"/>
+</a>
+
 </div>
+
+---
+
+## `> activity`
+
+<div align="center">
+
+<a href="https://github.com/Rennam2026">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rennam2026&bg_color=0D1117&color=C9D1D9&line=10B981&point=10B981&area=true&hide_border=true&custom_title=Erick%20Rennam%20-%20Contribution%20Graph"/>
+</a>
+
+</div>
+
+---
+
+## `> github_trophies`
+
+<div align="center">
+
+<a href="https://github.com/Rennam2026">
+<img src="https://github-profile-trophy.vercel.app/?username=Rennam2026&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7"/>
+</a>
+
+</div>
+
+---
+
+## `> contribution_snake`
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Rennam2026/Rennam2026/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+
+</div>
+
+---
+
+## `> contato`
+
+<div align="center">
+
+<a href="mailto:erick.rennam.nasc@gmail.com">
+<img src="https://img.shields.io/badge/E--mail-0D1117?style=for-the-badge&logo=gmail&logoColor=10B981"/>
+</a>
+
+<a href="https://www.linkedin.com/in/erick-costa-2a9a72427">
+<img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=10B981"/>
+</a>
+
+<a href="https://www.instagram.com/rennam.tech">
+<img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=10B981"/>
+</a>
+
+<a href="https://wa.me/5547984575517">
+<img src="https://img.shields.io/badge/WhatsApp-0D1117?style=for-the-badge&logo=whatsapp&logoColor=10B981"/>
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+📍 **Blumenau — SC, Brasil**
+
+📧 **[erick.rennam.nasc@gmail.com](mailto:erick.rennam.nasc@gmail.com)**
+
+</div>
+
+---
+
+<div align="center">
+
+### `Software é lógica. Hardware é matéria. Tecnologia é onde os dois se encontram.`
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0D1117&section=footer"/>
+
+</div>
+```
