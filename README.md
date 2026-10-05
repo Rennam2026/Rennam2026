@@ -24,7 +24,7 @@
 
 ## Sobre
 
-Sou **Erick Rennam**, estudante de **Desenvolvimento de Sistemas** e atuante na área de **manutenção de equipamentos de informática e eletrônicos**.
+Olá!, tudo bem?, prazer me chamo **Erick Rennam**, estudante de **Desenvolvimento de Sistemas** e atuante na área de **manutenção de equipamentos de informática e eletrônicos**.
 
 Minha formação une desenvolvimento de software com experiência prática em hardware. Trabalho com desenvolvimento Web, APIs, banco de dados, Git e modelagem de sistemas, enquanto também atuo com manutenção de computadores, reparo mobile e microssoldagem.
 
@@ -117,8 +117,11 @@ Projeto prático desenvolvido em equipe.
 **Técnico em Desenvolvimento de Sistemas**  
 Cedup Hermann Hering
 
+**Desmontagem e Montagem de Computadores e Celulares**  
+Cebrac - Blumenau 
+
 **Vendas de Software**  
-Senac Entra21
+Senac - Entra21
 
 **Manutenção & Microssoldagem**  
 Nice Cell Academy / Cebrac
@@ -147,42 +150,6 @@ CIEE
 </a>
 
 </div>
-
----
-
-## Atividade
-
-<div align="center">
-
-<a href="https://github.com/Rennam2026">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rennam2026&bg_color=0D1117&color=C9D1D9&line=10B981&point=10B981&area=true&hide_border=true&custom_title=Atividade%20no%20GitHub"/>
-</a>
-
-</div>
-
----
-
-## GitHub Trophies
-
-<div align="center">
-
-<a href="https://github.com/Rennam2026">
-<img src="https://github-profile-trophy.vercel.app/?username=Rennam2026&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=6"/>
-</a>
-
-</div>
-
----
-
-## Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Rennam2026/Rennam2026/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
-
-</div>
-
----
 
 ## Contato
 
